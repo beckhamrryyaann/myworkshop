@@ -3,7 +3,7 @@ ame: Source Orbit Impact Report
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   ibmi-build:
